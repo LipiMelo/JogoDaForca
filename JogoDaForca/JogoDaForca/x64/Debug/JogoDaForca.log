@@ -1,0 +1,10 @@
+﻿  jogodaforca.cpp
+C:\Users\User\Desktop\GitHub\CursoCPlusPlus\JogoDaForca\JogoDaForca\jogodaforca.cpp(1,12): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\User\Desktop\GitHub\CursoCPlusPlus\JogoDaForca\JogoDaForca\jogodaforca.cpp(1,5): error C2146: erro de sintaxe: ';' ausente antes do identificador 'remote'
+C:\Users\User\Desktop\GitHub\CursoCPlusPlus\JogoDaForca\JogoDaForca\jogodaforca.cpp(2,12): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\User\Desktop\GitHub\CursoCPlusPlus\JogoDaForca\JogoDaForca\jogodaforca.cpp(2,1): error C2086: 'int git': redefinição
+C:\Users\User\Desktop\GitHub\CursoCPlusPlus\JogoDaForca\JogoDaForca\jogodaforca.cpp(1): message : consulte a declaração de 'git'
+C:\Users\User\Desktop\GitHub\CursoCPlusPlus\JogoDaForca\JogoDaForca\jogodaforca.cpp(2,5): error C2146: erro de sintaxe: ';' ausente antes do identificador 'branch'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,12): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\sal.h(2361,12): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\User\Desktop\GitHub\CursoCPlusPlus\JogoDaForca\JogoDaForca\jogodaforca.cpp(131,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
